@@ -1,4 +1,4 @@
-![banner](https://i.imgur.com/f6FcrhT.png)
+![banner](https://github.com/AlexanderClay/wbwwb-ar/blob/master/Arabic-CoverImage.png)
 
 *a game about news cycles, vicious cycles, infinite cycles*
 
