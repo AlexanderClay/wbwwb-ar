@@ -1,5 +1,6 @@
 ![banner](https://github.com/AlexanderClay/wbwwb-ar/blob/master/Arabic-CoverImage.png)
 
+لعبة عربية فنية تدعو للتفكير في الإعلام و المجتمع
 *a game about news cycles, vicious cycles, infinite cycles*
 
 # **[PLAY (العربية)](https://alexclay.itch.io/wbwwb-ar)** -- **[PLAY (ENGLISH)](https://ncase.itch.io/wbwwb)**
